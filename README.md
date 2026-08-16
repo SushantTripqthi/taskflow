@@ -91,7 +91,6 @@ TaskFlow/
 │   ├── config.py
 │   ├── database.py
 │   ├── dependencies.py
-│   ├── requirements.txt
 │   └── results.txt
 ├── frontend/
 │   ├── index.html
